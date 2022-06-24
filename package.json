@@ -1,0 +1,28 @@
+{
+  "name": "collection-neue-galerie-kunstraum",
+  "version": "1.0.0",
+  "description": "A collection of p5 sketches by Matthias Jäger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthias-jaeger-net/collection-neue-galerie-kunstraum.git"
+  },
+  "keywords": [
+    "p5",
+    "sketch",
+    "abstract",
+    "art"
+  ],
+  "author": "Matthias Jäger",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/matthias-jaeger-net/collection-neue-galerie-kunstraum/issues"
+  },
+  "homepage": "https://github.com/matthias-jaeger-net/collection-neue-galerie-kunstraum#readme",
+  "dependencies": {
+    "p5": "^1.4.1"
+  }
+}

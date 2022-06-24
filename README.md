@@ -1,6 +1,8 @@
 # collection-neue-galerie-kunstraum
 Collection of abstract images created from small computer programs
 
+# Distanced Cubes
+
 ### distanced-cube-1
 ![alt text](images/distanced-cube-1.jpg)
 
@@ -21,3 +23,14 @@ Collection of abstract images created from small computer programs
 
 ### distanced-cube-7
 ![alt text](images/distanced-cube-7.jpg)
+
+# Segmeted Circles
+
+### segmented-circle-1
+![alt text](images/segmented-circle-1.jpg)
+
+### segmented-circle-2
+![alt text](images/segmented-circle-2.jpg)
+
+### segmented-circle-3
+![alt text](images/segmented-circle-3.jpg)
